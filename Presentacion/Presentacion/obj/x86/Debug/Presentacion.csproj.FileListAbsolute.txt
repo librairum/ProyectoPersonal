@@ -1,0 +1,14 @@
+c:\users\ivan\documents\visual studio 2010\Projects\Presentacion\Presentacion\obj\x86\Debug\Presentacion.Form1.resources
+c:\users\ivan\documents\visual studio 2010\Projects\Presentacion\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+c:\users\ivan\documents\visual studio 2010\Projects\Presentacion\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+c:\users\ivan\documents\visual studio 2010\Projects\Presentacion\Presentacion\bin\Debug\Presentacion.exe
+c:\users\ivan\documents\visual studio 2010\Projects\Presentacion\Presentacion\bin\Debug\Presentacion.pdb
+c:\users\ivan\documents\visual studio 2010\Projects\Presentacion\Presentacion\obj\x86\Debug\Presentacion.exe
+c:\users\ivan\documents\visual studio 2010\Projects\Presentacion\Presentacion\obj\x86\Debug\Presentacion.pdb
+c:\users\ivan\documents\visual studio 2010\Projects\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\IVAN\Documents\Visual Studio 2010\Projects\Presentacion\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Documents\Visual Studio 2010\Projects\Presentacion\Presentacion\obj\x86\Debug\Presentacion.Graficos.resources
+C:\Users\IVAN\Documents\Visual Studio 2010\Projects\Presentacion\Presentacion\obj\x86\Debug\Presentacion.exe.licenses
+C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectosPersonal-master\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectosPersonal-master\Presentacion\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectosPersonal-master\Presentacion\Presentacion\obj\x86\Debug\Presentacion.pdb
