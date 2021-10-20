@@ -15,3 +15,6 @@ C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\Proyect
 C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoPersonal\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
 C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoPersonal\Presentacion\Presentacion\obj\x86\Debug\Presentacion.exe
 C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoPersonal\Presentacion\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Cesar\Documents\GitHub\ProyectoPersonal\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Cesar\Documents\GitHub\ProyectoPersonal\Presentacion\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\Cesar\Documents\GitHub\ProyectoPersonal\Presentacion\Presentacion\obj\x86\Debug\Presentacion.pdb
