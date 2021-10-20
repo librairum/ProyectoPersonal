@@ -46,7 +46,7 @@ return new string(chars);
             }
             
         }
-
+        //boton guardar
         private void btnGuardarClave1_Click(object sender, EventArgs e)
         {
             var miAplicacion = Presentacion.Properties.Settings.Default;
