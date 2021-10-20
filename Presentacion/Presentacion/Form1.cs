@@ -36,7 +36,8 @@ return new string(chars);
 }
 
         private void btnGenera_Click(object sender, EventArgs e)
-        {                                               
+        {
+        /*reemplazar el uso de if por switch*/
             if (rbUno.Checked) {
                 txtclave1.Text = CreateRandomPassword(8).ToLower();          
             }
