@@ -128,6 +128,11 @@ return new string(chars);
                 //hacer algo
             }
         }
+
+
+        void validacion2() { 
+            //hacer algo
+        }
 }
     
     }
