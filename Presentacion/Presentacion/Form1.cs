@@ -93,6 +93,10 @@ return new string(chars);
         {
         }
 
+        public void PruebaMetodos2()
+        {
+        }
+
 //        public string GenerarPass(int LongPassMin, int LongPassMax)
 //{
 //Random ram = new Random();
