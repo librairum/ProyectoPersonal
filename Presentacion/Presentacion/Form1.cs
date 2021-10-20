@@ -83,7 +83,15 @@ return new string(chars);
             if (rbDos.Checked) {
                 txtclave2.Text = miAplicacion.consClave2;
             }
-        } 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+        public void PruebaMetodos()
+        {
+        }
 
 //        public string GenerarPass(int LongPassMin, int LongPassMax)
 //{
