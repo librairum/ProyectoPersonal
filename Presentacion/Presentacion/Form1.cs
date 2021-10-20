@@ -108,6 +108,15 @@ return new string(chars);
 
 //return Password;
 //}
+        //metodo para validar los valores de entrada
+        void Validacion()
+        {
+            string valor = "";
+            if (valor == "") { 
+                //hacer algo
+            }
+        }
 }
+    
     }
 
