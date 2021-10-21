@@ -21,6 +21,8 @@ namespace Presentacion
 
         void cargar() { }
 
+        void validar() { }
+
         
         
     }
