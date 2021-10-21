@@ -133,6 +133,11 @@ return new string(chars);
         void validacion2() { 
             //hacer algo
         }
+
+        void calcularPasajes() { }
+
+        void extraeEspaciosTexto() { }
+        void generarCodigo() { }
 }
     
     }
