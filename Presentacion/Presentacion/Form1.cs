@@ -130,14 +130,9 @@ return new string(chars);
         }
 
 
-        void validacion2() { 
-            //hacer algo
+        void validarExpresion() { 
+        
         }
-
-        void calcularPasajes() { }
-
-        void extraeEspaciosTexto() { }
-        void generarCodigo() { }
 }
     
     }
