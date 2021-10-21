@@ -9,20 +9,11 @@ using System.Windows.Forms;
 
 namespace Presentacion
 {
-    public partial class frmReporte : Form
+    public partial class frmLogin : Form
     {
-        public frmReporte()
+        public frmLogin()
         {
             InitializeComponent();
         }
-
-
-        void imprimir() { }
-
-        void cargar() { }
-
-        void procesar() { }
-        
-        
     }
 }
