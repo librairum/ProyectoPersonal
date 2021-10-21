@@ -15,5 +15,9 @@ namespace Presentacion
         {
             InitializeComponent();
         }
+
+        void imprimir() { 
+        
+        }
     }
 }
