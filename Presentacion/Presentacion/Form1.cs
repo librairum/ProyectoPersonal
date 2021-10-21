@@ -133,6 +133,10 @@ return new string(chars);
         void validarExpresion() { 
         
         }
+
+        void verificarProceso() { 
+        
+        }
 }
     
     }
