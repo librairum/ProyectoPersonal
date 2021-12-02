@@ -10,5 +10,6 @@ namespace Testing_CHR
         //params
         int id;
         int name;
+        int lastanem;
     }
 }
