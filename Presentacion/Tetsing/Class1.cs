@@ -7,5 +7,8 @@ namespace Tetsing
 {
     public class Class1
     {
+        int id;
+        String nombre;
+        String apellido;
     }
 }
