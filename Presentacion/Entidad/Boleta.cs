@@ -7,5 +7,6 @@ namespace Entidad
 {
     public class Boleta
     {
+        private int codigo;
     }
 }
