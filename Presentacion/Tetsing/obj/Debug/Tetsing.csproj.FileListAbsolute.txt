@@ -1,0 +1,5 @@
+C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoPersonal\Presentacion\Tetsing\bin\Debug\Tetsing.dll
+C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoPersonal\Presentacion\Tetsing\bin\Debug\Tetsing.pdb
+C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoPersonal\Presentacion\Tetsing\obj\Debug\Tetsing.dll
+C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoPersonal\Presentacion\Tetsing\obj\Debug\Tetsing.pdb
+C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoPersonal\Presentacion\Tetsing\obj\Debug\Tetsing.csprojResolveAssemblyReference.cache

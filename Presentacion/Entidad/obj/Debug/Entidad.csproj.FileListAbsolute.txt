@@ -1,0 +1,5 @@
+C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoPersonal\Presentacion\Entidad\bin\Debug\Entidad.dll
+C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoPersonal\Presentacion\Entidad\bin\Debug\Entidad.pdb
+C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoPersonal\Presentacion\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoPersonal\Presentacion\Entidad\obj\Debug\Entidad.dll
+C:\Users\pc_sistemas2020\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoPersonal\Presentacion\Entidad\obj\Debug\Entidad.pdb

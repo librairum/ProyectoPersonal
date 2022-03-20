@@ -1,0 +1,26 @@
+	<Signature>
+
+		<ID>E001-2034</ID>
+
+		<SignatoryParty>
+
+			<PartyName>
+
+				<Name>SUNAT</Name>
+
+			</PartyName>
+
+		</SignatoryParty>
+
+		<DigitalSignatureAttachment>
+
+			<ExternalReference>
+
+				<URI>SignSUNAT</URI>
+
+			</ExternalReference>
+
+		</DigitalSignatureAttachment>
+
+	</Signature>
+
